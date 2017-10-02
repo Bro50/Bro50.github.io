@@ -1,0 +1,67 @@
+.container {
+	
+}
+
+.block {
+	display: block;
+	font-size:24px;
+	font-weight: 900;
+	margin-bottom: 90px;
+}
+
+.top-header {
+	line-height:1.5;
+	font-size:24px;
+}
+
+.form {
+	border:5px solid #3846C0;
+	padding: 40px 40px;
+}
+
+.form input {
+	margin-bottom: 20px;
+}
+
+.form-header {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 40px;
+}
+
+.btn {
+	
+}
+
+
+.z-header {
+	margin: 150px auto;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+.section p {
+	font-size: 16px;
+	margin-top: 20px;
+	font-weight: 900;
+}
+
+.btn-bottom {
+	margin-top: 150px;
+}
+
+.section2 p {
+	font-size: 24px;
+	font-weight: 900;
+	text-align: center;
+	margin: 100px auto;
+}
+
+.section2 div {
+	display: inline-block;
+}
+
+.section2 img {
+	margin-bottom: 20px;
+}
