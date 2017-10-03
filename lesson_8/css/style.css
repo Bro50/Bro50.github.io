@@ -1,0 +1,14 @@
+.box {
+	margin:5px;
+	display: inline-block;
+}
+
+h1 {
+	margin-bottom: 131px;
+	text-transform: uppercase;
+}
+
+p {
+	margin-top: 15px;
+	font-weight: 900;
+}
