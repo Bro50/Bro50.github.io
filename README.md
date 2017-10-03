@@ -11,4 +11,4 @@
 
 [Урок-9](Bro50.github.io/lesson_9/) - Верстка при помощи Bootstrap 3
 
-[Урок-12](https://bro50.github.io/lesson_12/)
+[Урок-12](https://github.com/Bro50/Bro50.github.io) - Хостинг от GitHub
