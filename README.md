@@ -9,6 +9,6 @@
 
 [Урок-8](Bro50.github.io/lesson_8/) - Ускорение верстки в разы
 
-[Урок-8](Bro50.github.io/lesson_9/) - Верстка при помощи Bootstrap 3
+[Урок-9](Bro50.github.io/lesson_9/) - Верстка при помощи Bootstrap 3
 
 [Урок-12](https://bro50.github.io/lesson_12/)
