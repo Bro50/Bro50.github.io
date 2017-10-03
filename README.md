@@ -7,4 +7,6 @@
 
 [Урок-7](Bro50.github.io/lesson_7/src/) - Верстка первого макета
 
+[Урок-8](Bro50.github.io/lesson_8/) - Ускорение верстки в разы
+
 [Урок-12](https://bro50.github.io/lesson_12/)
