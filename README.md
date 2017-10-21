@@ -11,9 +11,9 @@
 
 [Урок-9](https://bro50.github.io/lesson_9/) - Верстка при помощи Bootstrap 3
 
-[Урок-10]() - Препроцессор LESS для CSS *не проверено*
+[Урок-10](https://yadi.sk/d/CDUCQt773NwigB) - Препроцессор LESS для CSS
 
-[Урок-11]() -  Сниппеты *не проверено*
+[Урок-11]() -  Сниппеты 
 
 [Урок-12](https://bro50.github.io/lesson_12/index.html) - Хостинг от GitHub
 
