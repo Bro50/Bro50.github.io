@@ -24,3 +24,5 @@
 [Урок-15](https://bro50.github.io/lesson_15/index.html) - Псевдоклассы и псевдоэлементы
 
 [Урок-16](https://bro50.github.io/lesson_16/src/) - Слайдер на сайте
+
+[Урок-17](https://bro50.github.io/lesson_17/) - Всплывающие окна
