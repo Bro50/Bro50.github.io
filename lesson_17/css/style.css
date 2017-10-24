@@ -1,0 +1,12 @@
+.header {
+  background-color: #ccc;
+  height: 60px;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.btnc {
+  margin-top: 5px;
+  text-align: center;
+}
